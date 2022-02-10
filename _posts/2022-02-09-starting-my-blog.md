@@ -2,8 +2,8 @@
 layout: post
 title:  "Starting my blog"
 author: Guillermo Zaandam
-categories: [ personal, start ]
-image: assets/images/audirensport.jpg
+categories: [Career Mode, Start, Delaware start]
+image: assets/images/shift2_menu_career.jpg
 featured: true
 toc: true
 rating: 5
