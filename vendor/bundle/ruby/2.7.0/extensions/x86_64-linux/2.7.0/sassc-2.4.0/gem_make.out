@@ -1,11 +1,11 @@
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220208-25441-1tfb3sc.rb extconf.rb
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220213-7157-1f6cbj0.rb extconf.rb
 creating Makefile
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make DESTDIR\= clean
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make DESTDIR\=
 compiling ./libsass/src/memory/allocator.cpp
 compiling ./libsass/src/ast.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20220208-25441-4rls0v/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20220213-7157-1zjuv8/sassc

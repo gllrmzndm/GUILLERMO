@@ -1,16 +1,16 @@
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220208-25441-p1t7fk.rb extconf.rb
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220213-7157-1ixgm8z.rb extconf.rb
 creating Makefile
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= clean
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\=
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
-current directory: /home/guillermo/Documents/Github/MYBLOG/mediumish-theme-jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /home/guillermo/Documents/Github/MYBLOG/Thisisguillermo.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20220208-25441-tvzcm1
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20220213-7157-7282cw
