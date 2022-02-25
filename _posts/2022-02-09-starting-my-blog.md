@@ -6,7 +6,6 @@ categories: [Career Mode, Start, Delaware start]
 image: assets/images/shift2_menu_career.jpg
 featured: true
 toc: true
-rating: 5
 ---
 
 
