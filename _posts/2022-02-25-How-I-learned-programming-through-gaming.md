@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I learned programming (Through video games.)"
+title:  "How I'm understanding programming through video games."
 author: Guillermo Zaandam
 categories: [Career Mode, Start, Programming, Video games]
 image: assets/images/mhr_guill.jpg
