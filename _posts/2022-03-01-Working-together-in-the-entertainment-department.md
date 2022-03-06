@@ -39,10 +39,10 @@ I have won a lot of games, but I’m not really proud of that (probably another 
 
 Like Mike Wells said from: (http://atlasf1.autosport.com/98/mon/wells.html)
 
-*Just as in warfare, the smaller of two opponents must out-think and out maneuver their larger foe if they wish to win, no less survive.*
+*Just as in warfare, the smaller of two opponents must out-think and out manoeuvre their larger foe if they wish to win, no less survive.*
 *Some may resign themselves with boredom towards F1, but a large part of that is because the important action takes place out of sight. ~ Mike Wells*
 
 Same goes for Fornite too, what are going to do when two of the people of the opposite team starts building Team Rocket Hideout?
-I think there's a lot to leern from this, but I will bet that other games give much better satisfaction, Factorio, Roller Coaster and more.
+I think there's a lot to learn from this, but I will bet that other games give much better satisfaction, Factorio, Roller Coaster and more.
 
-There's so much more talk about this whole "startegy" thing. But is it probably for now. Apologies for not giving enough illustrations, since I'm still figuring out, how to make this post and other posts better.
+There's so much more talk about this whole "strategy" thing. But is it probably for now. Apologies for not giving enough illustrations, since I'm still figuring out, how to make this post and other posts better.
