@@ -6,7 +6,6 @@ categories: [ reading, computernerd ]
 image: assets/images/powercyclone_5.jpg
 featured: true
 toc: true
-rating: 5
 ---
 
 
