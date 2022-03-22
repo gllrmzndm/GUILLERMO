@@ -4,7 +4,7 @@ title:  "My Horizon"
 author: Guillermo Zaandam
 categories: [Music]
 image: assets/images/forza_horizon.jpg
-featured: true
+featured: false
 toc: false
 ---
 

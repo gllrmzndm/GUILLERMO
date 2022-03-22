@@ -4,7 +4,7 @@ title:  "Oh But You're Computer Nerd Aren’t Ya?"
 author: Guillermo Zaandam
 categories: [ reading, computernerd ]
 image: assets/images/powercyclone_5.jpg
-featured: true
+featured: false
 toc: true
 ---
 

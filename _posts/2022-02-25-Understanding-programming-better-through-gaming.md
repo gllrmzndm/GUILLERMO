@@ -4,7 +4,7 @@ title:  "How I'm understanding programming through video games."
 author: Guillermo Zaandam
 categories: [Career Mode, Start, Programming, Video games]
 image: assets/images/mhr_guill_2.jpg
-featured: true
+featured: false
 toc: false
 ---
 

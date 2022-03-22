@@ -4,7 +4,7 @@ title:  "Working together in the entertainment department."
 author: Guillermo Zaandam
 categories: [Video games, Strategy]
 image: assets/images/lexus_pitstop.jpg
-featured: true
+featured: false
 toc: false
 ---
 
