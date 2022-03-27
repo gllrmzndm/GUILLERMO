@@ -1,0 +1,100 @@
+---
+# Add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax",
+    "starsnonscss"
+;
+
+
+body {
+	color: #ff0178;
+	background-color: #fff //#1A202C;
+}
+
+.mediumnavigation .navbar-brand img {
+	max-height: 60px;
+	margin-right: 5px;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-white.fixed-top.mediumnavigation.nav-down {
+	// background-color: #293242 !important;
+	// background-image: linear-gradient(to right, #ff0088, #ff4067, #ff6d4a, #ff9633, #fdbb2d);
+	background-image: url(/assets/images/BANNNER_timothy-colin-pausemenuall01_ENHANCED_COMPRESSED_2.jpg)!important;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+// navbar "blog" text
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+	color: #ffffff;
+	font-weight: 600;
+}
+
+//navbar "about" text
+.navbar-light .navbar-nav .nav-link {
+	color: #ffffff;
+	font-weight: 600;
+}
+
+.form-control {
+	display: block;
+	width: 100%;
+	height: calc(2.25rem + 2px);
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	color: #495057;
+	background-color: #ffffff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.card-body {
+	// background-color: #f8f8f8;
+	// background-image: linear-gradient(to right, #1f77bb, #5a6dc5, #905bbf, #be3ea8, #df0080);
+	background-color: rebeccapurple;
+}
+
+.text-dark {
+	color: #ffffff !important;
+}
+
+.listfeaturedtag h4.card-text, .listrecent h4.card-text {
+	color: rgb(255, 255, 255);
+}
+// Main background
+.site-content {
+	// background-image: url(/assets/images/nfs_heat_background_heats.png);
+	background-image: linear-gradient(to right, #265375, #0b4e8a, #094186, #1d43a4, #2e2e97, #4a2593, #5f198d, #700085, #700269, #7a0260, #920061, #df0080);
+}
+// Close to the footer image
+.jumbotron.fortags {
+	margin-top: 3rem;
+	padding: 0;
+	border-radius: 0;
+	background-image: url(/assets/images/BANNNER_timothy-colin-pausemenuall01_ENHANCED_COMPRESSED_2.jpg);
+	background-size: cover;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	color: white;
+}
+
+a {
+	color: #df1178;
+	text-decoration: none;
+}

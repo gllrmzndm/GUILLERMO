@@ -3,6 +3,7 @@
 # Change this file for any custom CSS.
 ---
 
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
@@ -13,3 +14,229 @@
 	"syntax",
     "starsnonscss"
 ;
+
+
+// Guillermo stylish
+
+:root {
+	background-color:  #12151a;
+	--accentColour: #ff0400;
+	--mainColour: linear-gradient(to top, #262729, #212225, #1c1e21, #17191e, #12151a);
+	--secondaryColour: #24252c;
+	--titleColour: #E5E5E5;
+	
+}
+
+// Navigation
+.mediumnavigation {
+    background: #3e3e3e !important;
+    box-shadow: 0 2px 2px -2px #000000f3;
+    transition: top 0.2s ease-in-out;
+	border-bottom: solid 1px;
+	border-color: var(--accentColour);
+}
+
+.mediumnavigation .navbar-brand > img {
+    max-height: 30px;
+    margin-right: 5px;
+}
+
+// Form control colour
+.form-control {
+    color: #373a3d;
+    background-color: #3e404a;
+}
+
+// background overwrite
+// .bg-white {
+//     background-color: #202020 !important;
+// }
+
+// Main background colour 
+.site-content {
+    background: var(--mainColour);
+}
+
+// Body colour when scrolling fast up (behind navigation)
+body {
+    color: #212529;
+    background-color: var(--mainColour);
+}
+
+// Card-body and navigation background colour
+.card-body, .bg-white {
+    background-color: var(--secondaryColour) !important;
+}
+
+// Border of "all stories" colour
+.card {
+	background-color: var(--secondaryColour);
+}
+
+.h1, h1 {
+    font-size: 2.5rem;
+    color: var(--titleColour);
+}
+
+// "Guillermo's speedwall" text
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: var(--titleColour);
+}
+
+// "Featured" text
+.section-title span {
+    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    display: inline-block;
+    padding-bottom: 20px;
+    margin-bottom: -1px;
+    color: var(--titleColour);
+}
+
+.section-title h2, .section-title span {
+    border-bottom: 1px solid var(--accentColour);
+}
+
+.bottompagination span.navigation {
+    color: #999;
+    border-top: 1px solid var(--accentColour);
+}
+
+a {
+    color: var(--accentColour);
+    transition: all 0.2s;
+}
+
+// Card title e.g. "Save CSS changes after page reload (Chrome)"
+.text-dark {
+    color: var(--titleColour)!important;
+}
+
+.listfeaturedtag h4.card-text, .listrecent h4.card-text {
+    color: #868686;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+span.post-name a, span.post-read-more a:hover {
+    color: var(--accentColour);
+}
+
+span.post-date, span.post-read {
+    color: #818181;
+}
+
+a.text-dark:focus, a.text-dark:hover {
+    color: var(--accentColour)!important;
+}
+
+// Navigation "blog" and "about" text
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: var(--titleColour)
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: var(--titleColour);
+}
+
+.form-control text-small launch-modal-search {
+	color: red;
+}
+
+// footer
+.footer {
+background-color:  #12151a;
+}
+
+.jumbotron.fortags {
+	margin-top: 3rem;
+	padding: 0;
+	border-radius: 0;
+	background-image: url(/assets/images/grid_autosport_banner.jpg);
+	background-size: cover;
+}
+
+.text-center {
+    text-align: center!important;
+    color: (var(--accentColour));
+}
+
+//
+// Post pages
+//
+
+// Author
+
+a:hover {
+    color: #038252;
+    text-decoration: none;
+}
+
+.link-dark {
+    color: var(--accentColour);
+}
+
+.post-top-meta .author-description {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 0.95rem;
+    color: var(--accentColour);
+}
+
+.article-post p, .article-post blockquote {
+    margin: 0 0 1.5rem 0;
+    color: #c2c2c2;
+}
+
+// Socials
+
+.share p {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+    color: var(--accentColour);
+}
+
+.fa-twitter:before {
+    content: "\f099";
+    color: var(--accentColour);
+}
+
+.fa-facebook-f:before {
+    content: "\f39e";
+    color: var(--accentColour);
+}
+
+.fa-linkedin-in:before {
+    content: "\f0e1";
+    color: var(--accentColour);
+}
+
+.sep {
+    height: 1px;
+    width: 20px;
+    background: var(--accentColour);
+    margin: 0px auto;
+    margin-bottom: 1.2rem;
+}
+
+// Post date
+span.post-date, span.post-read {
+    color: var(--accentColour);
+}
+
+// Tags
+ul.tags li a {
+    background: #3d3f4a;
+    color: #000000;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+// Categories page
+
+.section-title h2, .section-title span {
+    color: var(--accentColour);
+    border-bottom: 1px solid var(--accentColour);
+}
