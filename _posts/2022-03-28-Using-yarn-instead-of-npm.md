@@ -58,7 +58,7 @@ For lazy people copy this:
  npm install --global yarn
  ```
 
- and use `yarn create-react-app my-app` to use yarn as packagemanger.
+ and use `yarn create react-app my-app` to use yarn as packagemanger. (Mind the space in `yarn create` part, it isn't a spelling mistake.)
 
 ## Using yarn e.g. create react-app my-app
 
@@ -73,6 +73,6 @@ The reason why `npx` defaults to `npm` is explained on GitHub by [iansu](https:/
 
 Source: [https://github.com/facebook/create-react-app/pull/11322](https://github.com/facebook/create-react-app/pull/11322)
 
-To use `yarn`, you will need to use the command `yarn create-react-app my-app`
+To use `yarn`, you will need to use the command `yarn create react-app my-app` (Mind the space in `yarn create` part, it isn't a spelling mistake.)
 Using `create-react-app my-app` will also use `npm` as package manager.
 
