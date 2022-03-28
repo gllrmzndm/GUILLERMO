@@ -69,7 +69,9 @@ The reason why `npx` defaults to `npm` is explained on GitHub by [iansu](https:/
 
 *"We've actually made some changes to this since the initial PR. Our goal is to make running create-react-app deterministic. With the old behaviour two people running npx create-react-app my-app could end up with different installs if one of them happened to have Yarn installed.*
 
-*The new behaviour in this PR looks at how create-react-app was invoked and uses the corresponding package manager. npx create-react-app my-app will use npm and yarn dlx create-react-app my-app (or yarn create react-app my-app) will use Yarn. This will also potentially allow us to add support for other package managers by following the same pattern."*
+*The new behaviour in this PR looks at how create-react-app was invoked and uses the corresponding package manager. npx create-react-app my-app will use npm and yarn dlx create-react-app my-app (or yarn create react-app my-app) will use Yarn. This will also potentially allow us to add support for other package managers by following the same pattern."* 
+
+Source: [https://github.com/facebook/create-react-app/pull/11322](https://github.com/facebook/create-react-app/pull/11322)
 
 To use `yarn`, you will need to use the command `yarn create-react-app my-app`
 Using `create-react-app my-app` will also use `npm` as package manager.
