@@ -24,7 +24,7 @@
 	--mainColour: linear-gradient(to top, #262729, #212225, #1c1e21, #17191e, #12151a);
 	--secondaryColour: #24252c;
 	--titleColour: #E5E5E5;
-	
+
 }
 
 // Navigation
@@ -35,9 +35,9 @@
 	border-bottom: solid 1px;
 	border-color: var(--accentColour);
 }
-
+// ravenwestlogo
 .mediumnavigation .navbar-brand > img {
-    max-height: 30px;
+    max-height: 48px;
     margin-right: 5px;
 }
 
@@ -52,7 +52,7 @@
 //     background-color: #202020 !important;
 // }
 
-// Main background colour 
+// Main background colour
 .site-content {
     background: var(--mainColour);
 }
