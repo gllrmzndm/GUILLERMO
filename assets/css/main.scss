@@ -54,7 +54,11 @@
 
 // Main background colour
 .site-content {
-    background: var(--mainColour);
+    // background: var(--mainColour);
+    background-color: #1a1a1a;
+    opacity: 0.9;
+    background-image: repeating-radial-gradient( circle at 0 0, transparent 0, #000000 9px ), repeating-linear-gradient( #16161655, #161616 );
+
 }
 
 // Body colour when scrolling fast up (behind navigation)
