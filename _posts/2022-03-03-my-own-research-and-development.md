@@ -2,8 +2,8 @@
 layout: post
 title:  "My own Research and Development"
 author: Guillermo Zaandam
-categories: [Career Mode, Strategy]
-image: assets/images/toyota.jpg
+categories: [Research]
+image: assets/images/r&d.png
 featured: true
 toc: true
 ---
@@ -27,7 +27,7 @@ As I’m doing my groceries right now and walking through aisles (sometimes for 
 Judging the Game Developers Conference videos, a lot of people aren’t the brightest.
 In my experience, things were tough when I needed to explain why I go to the gym. Obviously to improve my body to beat my competition. (whoever that may be) Good luck trying to wakeboard and execute some tricks only to be held back by your body. (This happened to me.)
 
-More frustrating of my R&D is the part where I don’t get the specific information that I want, which means I need to research it and figure it out myself, despite the person having “experience” in the field. 
+More frustrating of my R&D is the part where I don’t get the specific information that I want, which means I need to research it and figure it out myself, despite the person having “experience” in the field.
 
 So for example when I worked as an intern at several companies, my colleagues couldn’t handle basic questions and it’s frustrating, because they are basic. Examples are (from the top of my head):
 

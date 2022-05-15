@@ -2,11 +2,11 @@
 layout: post
 title:  "Using NTFS Bitlocker external SSD on Fedora"
 author: Guillermo Zaandam
-categories: [Career, Garage, United Parcel Service]
-image: assets/images/laptop_car.jpg
-featured: false
+categories: [Linux, Fedora, Bitlocker]
+image: assets/images/bitlocker_fedora.png
+featured: true
 toc: false
-published: false
+published: true
 ---
 
 So I figured out that, `yarn` may be better than `npm` when installing packages.

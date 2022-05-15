@@ -2,7 +2,7 @@
 layout: post
 title:  "How I'm understanding programming through video games."
 author: Guillermo Zaandam
-categories: [Career Mode, Start, Programming, Video games]
+categories: [CProgramming, Video games]
 image: assets/images/mhr_guill_2.jpg
 featured: false
 toc: false
@@ -31,7 +31,7 @@ Mastering for me is, figuring all possible combinations of weapon attacks and ap
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BewitchedWeeklyJay' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-This was the same thing for me in programming, gathering knowledge, figuring out, applying this in the text editor in a sequence. 
+This was the same thing for me in programming, gathering knowledge, figuring out, applying this in the text editor in a sequence.
 
 Most difficult thing for me in programming was the part of using the search engines(s) in a different way.(2) Since most of the time, when I am facing a problem, I do this from the top of my head, again in a sequence. Of course I am using the search engine to compliment and verify my knowledge.
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Save CSS changes after page reload (Chrome)"
 author: Guillermo Zaandam
-categories: [Software engineering, Web development, Chrome DevTools]
-image: assets/images/save_changes.png
+categories: [Web development, Chrome DevTools, CSS]
+image: assets/images/chrome_devtools.jpg
 featured: true
 toc: false
 ---

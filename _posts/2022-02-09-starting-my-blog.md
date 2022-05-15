@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting my blog"
 author: Guillermo Zaandam
-categories: [Career Mode, Start, Delaware start]
+categories: [Jekyll, Ruby, Bundle]
 image: assets/images/shift2_menu_career_2.jpg
 featured: true
 toc: true
