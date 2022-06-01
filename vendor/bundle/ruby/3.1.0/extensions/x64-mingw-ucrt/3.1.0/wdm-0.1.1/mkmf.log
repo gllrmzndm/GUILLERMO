@@ -1,0 +1,13 @@
+PATH=".;C:/tools/ruby31/lib;C:\tools\ruby31\bin;C:\tools\msys64\ucrt64\bin;C:\tools\msys64\usr\bin;C:\Program Files\PowerShell\7;C:\tools\ruby31\bin;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI\;C:\Program Files\PowerShell\7\;C:\Users\guill_tji86gs\AppData\Local\Microsoft\WindowsApps;C:\Users\guill_tji86gs\AppData\Roaming\npm;C:\Users\guill_tji86gs\AppData\Local\Yarn\bin;C:\tools\dart-sdk\bin;C:\Users\guill_tji86gs\AppData\Roaming\Pub\Cache\bin;C:\tools\msys64" "gcc -o conftest.exe -IC:/tools/ruby31/include/ruby-3.1.0/x64-mingw-ucrt -IC:/tools/ruby31/include/ruby-3.1.0/ruby/backward -IC:/tools/ruby31/include/ruby-3.1.0 -I. -D__USE_MINGW_ANSI_STDIO=1 -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fno-fast-math -fstack-protector-strong conftest.c  -L. -LC:/tools/ruby31/lib -L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed  -m64   -lx64-ucrt-ruby310  -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: int main(int argc, char **argv)
+6: {
+7:   return !!argv[argc];
+8: }
+/* end */
+

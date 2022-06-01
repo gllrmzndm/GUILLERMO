@@ -1,0 +1,9 @@
+current directory: C:/Users/guill_tji86gs/Documents/Github/MYBLOG/GUILLERMO/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+C:/tools/ruby31/bin/ruby.exe -I C:/tools/ruby31/lib/ruby/3.1.0 -r ./siteconf20220531-17912-aodfyf.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/guill_tji86gs/Documents/Github/MYBLOG/GUILLERMO/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+current directory: C:/Users/guill_tji86gs/Documents/Github/MYBLOG/GUILLERMO/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+make failedNo such file or directory - make

@@ -1,0 +1,48 @@
+current directory: C:/Users/guill_tji86gs/Documents/Github/MYBLOG/GUILLERMO/vendor/bundle/ruby/3.1.0/gems/wdm-0.1.1/ext/wdm
+C:/tools/ruby31/bin/ruby.exe -I C:/tools/ruby31/lib/ruby/3.1.0 -r ./siteconf20220531-17912-igy5zl.rb extconf.rb
+checking for -lkernel32... *** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=C:/tools/ruby31/bin/$(RUBY_BASE_NAME)
+	--with-kernel32-dir
+	--without-kernel32-dir
+	--with-kernel32-include
+	--without-kernel32-include=${kernel32-dir}/include
+	--with-kernel32-lib
+	--without-kernel32-lib=${kernel32-dir}/lib
+	--with-kernel32lib
+	--without-kernel32lib
+C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:498:in `try_do': The compiler failed to generate an executable file. (RuntimeError)
+You have to install development tools first.
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:591:in `try_link0'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:609:in `try_link'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:837:in `try_func'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:1065:in `block in have_library'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:1007:in `block in checking_for'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:362:in `block (2 levels) in postpone'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:332:in `open'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:362:in `block in postpone'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:332:in `open'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:358:in `postpone'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:1006:in `checking_for'
+	from C:/tools/ruby31/lib/ruby/3.1.0/mkmf.rb:1060:in `have_library'
+	from extconf.rb:19:in `<main>'
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  C:/Users/guill_tji86gs/Documents/Github/MYBLOG/GUILLERMO/vendor/bundle/ruby/3.1.0/extensions/x64-mingw-ucrt/3.1.0/wdm-0.1.1/mkmf.log
+
+extconf failed, exit code 1
